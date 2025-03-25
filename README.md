@@ -1,17 +1,17 @@
-# Polynomial Regression From Scratch 🧠
-This is my second machine learning project, where I build a polynomial regression model from scratch! The main goals are:
+# Polynomial Regression From Scratch 🧠  
 
-✅ Understanding the mathematics behind it
-✅ Optimizing the code for better execution time
-✅ Making the model work for any degree 
-𝑛
-n, not just a fixed one
+This is my second machine learning project, where I build a **polynomial regression model** from scratch! The main goals are:  
 
-My first implementation worked fine but wasn’t optimized. Using Empirical Risk Minimization (ERM) isn’t always the best choice for every model. In this project, we’ll explore faster and more efficient optimization methods!
+✅ Understanding the **mathematics** behind it  
+✅ **Optimizing** the code for better execution time  
+✅ Making the model **work for any degree** \( n \), not just a fixed one  
 
-#🛠️ Libraries Used
-pandas – for data manipulation
+My first implementation worked fine but wasn’t **optimized**. Using **Empirical Risk Minimization (ERM)** isn’t always the best choice for every model. In this project, we’ll explore **faster** and **more efficient** optimization methods!  
 
-numpy – for numerical operations
+## 🛠️ Libraries Used  
+- **pandas** – for data manipulation  
+- **numpy** – for numerical operations  
+- **matplotlib** – for visualization  
 
-matplotlib – for visualization
+Stay tuned for updates! 🚀  
+
