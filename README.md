@@ -13,5 +13,4 @@ My first implementation worked fine but wasn’t **optimized**. Using **Empirica
 - **numpy** – for numerical operations  
 - **matplotlib** – for visualization  
 
-Stay tuned for updates! 🚀  
 
